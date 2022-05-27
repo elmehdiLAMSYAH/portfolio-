@@ -39,8 +39,8 @@ Menus:
       weight: 2
 
 params:
-  title: "Hugo Profile"
-  description: Text about my cool site
+  title: "LAMSYAH ELMEHDI"
+  description: portfolio
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
 
@@ -89,8 +89,8 @@ params:
   hero:
     enable: true
     intro: "Hi, my name is"
-    title: "Isabella."
-    subtitle: "I build things for the web"
+    title: "ELMEHDI."
+    subtitle: "I am a Junior Data Scientist"
     content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
     image: /images/hero.svg
     button:
@@ -303,15 +303,14 @@ params:
   #Contact
   contact:
     enable: true
-    content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
-    email: gurusabarisha@gmail.com
+    content: My inbox is always open. Whether you have a question or just want to say hi, I’ll  get back to you!
+    email: lamsyahmehdi@gmail.com
     btnName: Mail me
 
   footer:
     # recentPosts: false
     socialNetworks:
-      github: https://github.com
-      linkedin: https://linkedin.com
-      twitter: https://twitter.com
-      instagram: https://instagram.com
-      facebook: https://facebook.com
+      github: https://github.com/elmehdiLAMSYAH
+      linkedin: https://www.linkedin.com/in/elmehdi-lamsyah-a04bba149/
+      instagram: https://www.instagram.com/elmehdi_lmsh/
+      facebook: https://www.facebook.com/mehdi.santana.56/
