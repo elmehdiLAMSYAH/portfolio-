@@ -42,7 +42,7 @@ params:
   title: "LAMSYAH ELMEHDI"
   description: portfolio
   # staticPath: ""  # The path to serve the static files from
-  favicon: "/fav.png"
+  favicon: "/fav1.png"
 
   theme:
     disableThemeToggle: false
@@ -98,15 +98,15 @@ params:
       name: "Resume"
       url: "https://drive.google.com/file/d/1242EWVNr0Foh5QHApSGahLRXVNkLRusN/view?usp=sharing"
     # socialLinks:
-    
+
       # fontAwesomeIcons:
       #  - icon: fab fa-github
       #    url: https://example.com
       #  - icon: fab fa-twitter
       #    url: https://example.com
-       
+
       # customIcons:
-      #  - icon: /fav.png
+      #  - icon: /fav1.png
       #   url: "https://example.com"
 
   # About
