@@ -208,10 +208,10 @@ params:
       - title: "Artificial intelligent and data science"
         school:
           name: "Mohammed 5 university"
-                url: "http://www.um5.ac.ma/um5/"
-              date: "2019 - 2021"
-              GPA: ""
-              content: |-
+          url: "http://www.um5.ac.ma/um5/"
+        date: "2019 - 2021"
+        GPA: ""
+        content: |-
 
       - title: "Bachelor of Science in Computer Science"
         school:
@@ -220,13 +220,7 @@ params:
         date: "2016 - 2019"
         GPA: ""
         content: |-
-          #I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          #- [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          #- Face mask detection using a single convolutional neural network.
 
-          #Extracurricular Activities
-          #- Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-          #- Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
         featuredLink:
           enable: false
           name: "My academic record"
@@ -244,17 +238,17 @@ params:
   achievements:
     enable: false
     items:
-      - title: Google kickstart runner
-        content: I solved all problems with optimal solution.
+      - title: GAISIESO
+        content: DATA ENGINEER
         url: https://example.com
-      - title: Facebook Hackathon Winner
+      - title: KANTAR
         content: Developed a product using Artificial Intelligence.
-      - title: Hugo Profile
+      - title: VOKARIS
         content: Developed a theme and getting 1K+ downloads per month.
         url: "https://github.com/gurusabarish/hugo-profile"
-      - title: Microsoft Imagine Runner
+      - title: MOHAMMED 5 university
         content: We are developed a product which can help others.
-      - title: Google Summer of Code
+      - title: PLUMN'S
         content: Contributed to a open source project.
         url: https://example.com
 
