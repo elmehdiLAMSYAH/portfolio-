@@ -132,16 +132,17 @@ params:
   experience:
     enable: true
     items:
-      - job: "Senior Software Developer"
-        company: "Facebook"
-        companyUrl: "https://example.com"
-        date: "Jan 2022 - present"
+      - job: "Data engineer"
+        company: " GAISIE’SO "
+        companyUrl: "https://vymaps.com/MA/Gaisie-so-Sarl-118621299523594/"
+        date: "april 2022 - present"
         featuredLink:
-          enable: true
+          enable: false
           name: "View the project"
           url: "https://example.com"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
-
+        content: |
+          - building and deploying chatbots based on RASA framework
+          - Machine Learning models integration in AWS instance (Django back-end)
       - job: "Software Developer"
         company: "Amazon"
         companyUrl: "https://example.com"
@@ -230,6 +231,7 @@ params:
           name: "Ali ben barri"
           url: "https://www.facebook.com/Ali.Ben.Barri/"
         GPA: ""
+        date: "2015"
         featuredLink:
           enable: false
           url: "https://example.com"
@@ -254,7 +256,7 @@ params:
 
   # projects
   projects:
-    enable: true
+    enable: false
     items:
       - title: Hugo Profile
         content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
