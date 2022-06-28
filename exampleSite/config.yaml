@@ -145,10 +145,10 @@ params:
           - building and deploying chatbots based on RASA framework.
           - Machine Learning models integration in AWS instance (Django back-end).
 
-      - job: "Junior Data Engineer"
-        company: " GAISIE’SO "
-        companyUrl: "https://vymaps.com/MA/Gaisie-so-Sarl-118621299523594/"
-        date: "april 2022 - present12"
+      - job: "Junior Data Scientist"
+        company: " Integrate, an Affiliate of Kantar "
+        companyUrl: "https://integrategroup.org/fr/"
+        date: "November 2021- March 2022 "
         featuredLink:
           enable: false
           name: "View the project"
@@ -158,6 +158,7 @@ params:
           - Client Clustering.
           - Automatizing building chatbots based on RASA.
           - Machine Learning models integration (Django back-end).    
+
 
       - job: "Data Scientist intern"
         company: "VOKARIS"
