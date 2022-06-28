@@ -42,7 +42,7 @@ params:
   title: "LAMSYAH ELMEHDI"
   description: portfolio
   # staticPath: ""  # The path to serve the static files from
-  favicon: "/fav1.png"
+  favicon: "/fav.png"
 
   theme:
     disableThemeToggle: false
@@ -155,7 +155,7 @@ params:
         content: |
           - Improving the accuracy of a Moroccan Arabic ASR system.
           - Client Clustering.
-          - Automatizing building chatbots based on RASA.
+          - Word embedding model for North African Arabic.
           - Machine Learning models integration (Django back-end).    
 
 
