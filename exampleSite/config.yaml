@@ -159,36 +159,6 @@ params:
           - Automatizing building chatbots based on RASA.
           - Machine Learning models integration (Django back-end).    
 
-      - job: "Junior Data Scientist"
-        company: "Integrate, an Affiliate of Kantar"
-        companyUrl: "https://integrategroup.org/fr/"
-        date: "November 2021- March 2022"
-        featuredLink:
-          enable: false
-          url: "https://example.com"
-        info:
-          enable: false
-          content: I worked as a software developer for more than one year in Amazon.
-        content: |
-          
-          
-
-      - job: "Junior Data Scientist"
-        company: "Integrate, an Affiliate of Kantar"
-        companyUrl: "https://integrategroup.org/fr/"
-        date: "November 2021- March 2022 "
-        featuredLink:
-          enable: false
-          url: "https://example.com"
-        info:
-          enable: false
-          content: I worked as a software developer for more than one year in Amazon.
-        content: |
-          - Improving the accuracy of a Moroccan Arabic ASR system.
-          - Client Clustering.
-          - Automatizing building chatbots based on RASA.
-          - Machine Learning models integration (Django back-end).
-
       - job: "Data Scientist intern"
         company: "VOKARIS"
         companyUrl: "http://www.vokaris.fr/"
