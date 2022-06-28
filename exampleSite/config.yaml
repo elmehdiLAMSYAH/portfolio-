@@ -132,7 +132,6 @@ params:
   experience:
     enable: true
     items:
-
       - job: "Junior Data Engineer"
         company: " GAISIE’SO "
         companyUrl: "https://vymaps.com/MA/Gaisie-so-Sarl-118621299523594/"
@@ -146,7 +145,7 @@ params:
           - Machine Learning models integration in AWS instance (Django back-end).
 
       - job: "Junior Data Scientist"
-        company: " Integrate, an Affiliate of Kantar "
+        company: "Kantar"
         companyUrl: "https://integrategroup.org/fr/"
         date: "November 2021- March 2022 "
         featuredLink:
