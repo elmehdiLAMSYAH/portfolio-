@@ -154,8 +154,10 @@ params:
           name: "View the project"
           url: "https://example.com"
         content: |
-          - building and deploying chatbots based on RASA framework.
-          - Machine Learning models integration in AWS instance (Django back-end).    
+          - Improving the accuracy of a Moroccan Arabic ASR system.
+          - Client Clustering.
+          - Automatizing building chatbots based on RASA.
+          - Machine Learning models integration (Django back-end).    
 
       - job: "Junior Data Scientist"
         company: "Integrate, an Affiliate of Kantar"
@@ -168,10 +170,8 @@ params:
           enable: false
           content: I worked as a software developer for more than one year in Amazon.
         content: |
-          - Improving the accuracy of a Moroccan Arabic ASR system.
-          - Client Clustering.
-          - Automatizing building chatbots based on RASA.
-          - Machine Learning models integration (Django back-end).
+          
+          
 
       - job: "Junior Data Scientist"
         company: "Integrate, an Affiliate of Kantar"
