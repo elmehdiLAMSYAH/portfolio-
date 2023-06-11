@@ -88,11 +88,12 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "Hi, my name is"
-    title: "ELMEHDI."
-    subtitle: "I am a Junior Data Scientist"
-    content: "Proficient in Machine Learning and Deep Learning, as well as being experienced in Automatic speech recognition, NLP, and Recommendation systems."
-    image: /images/me.jpg
+    intro: "Hello "
+    title: "EL MEHDI LAMSYAH"
+    subtitle: "Junior Data Scientist/ Data Engineer"
+    content: "Proficient in Machine Learning and Deep Learning, as well as being experienced in  NLP, and Recommendation systems."
+    # content: "junior Data Engineer/Scientist with +2 years of experience  in Machine Learning and Deep Learning, as well as being experienced in  NLP, and Recommendation systems."
+    image: /images/elamsyah.jpg
     button:
       enable: true
       name: "Resume"
