@@ -40,7 +40,7 @@ Menus:
 
 params:
   title: "LAMSYAH ELMEHDI"
-  description: portfolio
+  description: Portfolio
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
 
@@ -90,9 +90,9 @@ params:
     enable: true
     intro: "Hello "
     title: "EL MEHDI LAMSYAH"
-    subtitle: "Junior Data Scientist/ Data Engineer"
-    content: "Proficient in Machine Learning and Deep Learning, as well as being experienced in  NLP, and Recommendation systems."
-    # content: "junior Data Engineer/Scientist with +2 years of experience  in Machine Learning and Deep Learning, as well as being experienced in  NLP, and Recommendation systems."
+    subtitle: "Junior Data Scientist/ Engineer"
+    # content: "Proficient in Machine Learning and Deep Learning, as well as being experienced in  NLP, and Recommendation systems."
+    content: "junior Data Engineer/Scientist with +2 years of experience  in building ETL process and Data Warehouse , as well as being experienced in  NLP, and Recommendation systems."
     image: /images/elamsyah.jpg
     button:
       enable: true
